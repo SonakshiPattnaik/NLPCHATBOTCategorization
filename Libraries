@@ -1,0 +1,12 @@
+Import Libraries - 
+import numpy as np
+import nltk
+import json
+import pickle
+import re
+import random
+from keras.models import Sequential
+from keras.layers import Dense, Activation, Dropout
+from tensorflow.keras.optimizers import SGD
+from nltk.stem import WordNetLemmatizer
+
